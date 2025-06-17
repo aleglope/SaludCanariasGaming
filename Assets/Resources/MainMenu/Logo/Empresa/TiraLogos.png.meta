@@ -1,0 +1,1911 @@
+fileFormatVersion: 2
+guid: b918f686d7dfe2a4fbfc57b9d8bca5ca
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1050313583749096571
+    second: tira logos canarias + salud 1200_0
+  - first:
+      213: -7130070088157855342
+    second: tira logos canarias + salud 1200_1
+  - first:
+      213: -8278396442460193550
+    second: tira logos canarias + salud 1200_2
+  - first:
+      213: -3631823546866943439
+    second: tira logos canarias + salud 1200_3
+  - first:
+      213: 7899882725783378804
+    second: tira logos canarias + salud 1200_4
+  - first:
+      213: 1703493791403214702
+    second: tira logos canarias + salud 1200_5
+  - first:
+      213: 8203349728885736496
+    second: tira logos canarias + salud 1200_6
+  - first:
+      213: 2888071999979515251
+    second: tira logos canarias + salud 1200_7
+  - first:
+      213: -1341999030551579500
+    second: tira logos canarias + salud 1200_8
+  - first:
+      213: 2225933338968148003
+    second: tira logos canarias + salud 1200_9
+  - first:
+      213: -4442323335913450433
+    second: tira logos canarias + salud 1200_10
+  - first:
+      213: 953414466646018836
+    second: tira logos canarias + salud 1200_11
+  - first:
+      213: -4146501133250430500
+    second: tira logos canarias + salud 1200_12
+  - first:
+      213: 8356429283483810974
+    second: tira logos canarias + salud 1200_13
+  - first:
+      213: -5330066731464115670
+    second: tira logos canarias + salud 1200_14
+  - first:
+      213: -8022557502803585347
+    second: tira logos canarias + salud 1200_15
+  - first:
+      213: -8715675643989632098
+    second: tira logos canarias + salud 1200_16
+  - first:
+      213: 3339203143589764370
+    second: tira logos canarias + salud 1200_17
+  - first:
+      213: 5638433364243149083
+    second: tira logos canarias + salud 1200_18
+  - first:
+      213: 5843624967466823861
+    second: tira logos canarias + salud 1200_19
+  - first:
+      213: 4778484667454011397
+    second: tira logos canarias + salud 1200_20
+  - first:
+      213: -3874221209605066869
+    second: tira logos canarias + salud 1200_21
+  - first:
+      213: -5530025974005704383
+    second: tira logos canarias + salud 1200_22
+  - first:
+      213: -3368595604320497658
+    second: tira logos canarias + salud 1200_23
+  - first:
+      213: 4642899849850903517
+    second: tira logos canarias + salud 1200_24
+  - first:
+      213: -1763222910856815831
+    second: tira logos canarias + salud 1200_25
+  - first:
+      213: 8383925834431798870
+    second: tira logos canarias + salud 1200_26
+  - first:
+      213: 4715705426297718894
+    second: tira logos canarias + salud 1200_27
+  - first:
+      213: -3370435101383581604
+    second: tira logos canarias + salud 1200_28
+  - first:
+      213: 4034617802473184782
+    second: tira logos canarias + salud 1200_29
+  - first:
+      213: -7411899633009427147
+    second: tira logos canarias + salud 1200_30
+  - first:
+      213: 7904882524267243078
+    second: tira logos canarias + salud 1200_31
+  - first:
+      213: 1959917623556432270
+    second: tira logos canarias + salud 1200_32
+  - first:
+      213: 821836105419361326
+    second: tira logos canarias + salud 1200_33
+  - first:
+      213: -1318618070703504815
+    second: tira logos canarias + salud 1200_34
+  - first:
+      213: 8843691406011702954
+    second: tira logos canarias + salud 1200_35
+  - first:
+      213: 650063763337897924
+    second: tira logos canarias + salud 1200_36
+  - first:
+      213: -5921906570584805465
+    second: tira logos canarias + salud 1200_37
+  - first:
+      213: -6686702189479849474
+    second: tira logos canarias + salud 1200_38
+  - first:
+      213: -7119227810937034748
+    second: tira logos canarias + salud 1200_39
+  - first:
+      213: -4318618917697495858
+    second: tira logos canarias + salud 1200_40
+  - first:
+      213: -6678549335682019757
+    second: tira logos canarias + salud 1200_41
+  - first:
+      213: 990941119827617566
+    second: tira logos canarias + salud 1200_42
+  - first:
+      213: -269937019970072074
+    second: tira logos canarias + salud 1200_43
+  - first:
+      213: 3610923169597908213
+    second: tira logos canarias + salud 1200_44
+  - first:
+      213: 1669897192986710119
+    second: tira logos canarias + salud 1200_45
+  - first:
+      213: -4929565990146183460
+    second: tira logos canarias + salud 1200_46
+  - first:
+      213: 1621428677335470162
+    second: tira logos canarias + salud 1200_47
+  - first:
+      213: 2340273371714065686
+    second: tira logos canarias + salud 1200_48
+  - first:
+      213: -7417622491862388123
+    second: tira logos canarias + salud 1200_49
+  - first:
+      213: 3007476214761619945
+    second: tira logos canarias + salud 1200_50
+  - first:
+      213: 8894087474272438153
+    second: tira logos canarias + salud 1200_51
+  - first:
+      213: -3561430334358616934
+    second: tira logos canarias + salud 1200_52
+  - first:
+      213: 6474753773347903805
+    second: tira logos canarias + salud 1200_53
+  - first:
+      213: 4019698306482263461
+    second: tira logos canarias + salud 1200_54
+  - first:
+      213: -5202723806011557225
+    second: tira logos canarias + salud 1200_55
+  - first:
+      213: -6826998071761918984
+    second: tira logos canarias + salud 1200_56
+  - first:
+      213: 7623527502207108278
+    second: tira logos canarias + salud 1200_57
+  - first:
+      213: 7800413539910890162
+    second: tira logos canarias + salud 1200_58
+  - first:
+      213: -5393728531871768932
+    second: tira logos canarias + salud 1200_59
+  - first:
+      213: 4452492949700452995
+    second: tira logos canarias + salud 1200_60
+  - first:
+      213: 8238488853236624484
+    second: tira logos canarias + salud 1200_61
+  - first:
+      213: 718819915996935661
+    second: tira logos canarias + salud 1200_62
+  - first:
+      213: -858096065854675026
+    second: tira logos canarias + salud 1200_63
+  - first:
+      213: 5510257269826520177
+    second: tira logos canarias + salud 1200_64
+  - first:
+      213: 2790612706316950895
+    second: tira logos canarias + salud 1200_65
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: VisionOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tira logos canarias + salud 1200_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 88
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b74e12eb3a6739e00800000000000000
+      internalID: 1050313583749096571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tira logos canarias + salud 1200_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 44
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29186b31807ec0d90800000000000000
+      internalID: -7130070088157855342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tira logos canarias + salud 1200_2
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 43
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc7d41eb4a3d1d80800000000000000
+      internalID: -8278396442460193550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tira logos canarias + salud 1200_3
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 43
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13ab812f9bb299dc0800000000000000
+      internalID: -3631823546866943439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tira logos canarias + salud 1200_4
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 43
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b1095db7502ad60800000000000000
+      internalID: 7899882725783378804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tira logos canarias + salud 1200_5
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 43
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e670ca9e39604a710800000000000000
+      internalID: 1703493791403214702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tira logos canarias + salud 1200_6
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 40
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 034088e7d1728d170800000000000000
+      internalID: 8203349728885736496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tira logos canarias + salud 1200_7
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 0
+        width: 203
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37de78cae2e741820800000000000000
+      internalID: 2888071999979515251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tira logos canarias + salud 1200_8
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 38
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 494fd0fedf2406de0800000000000000
+      internalID: -1341999030551579500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tira logos canarias + salud 1200_9
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 0
+        width: 63
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32845ea049a14ee10800000000000000
+      internalID: 2225933338968148003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tira logos canarias + salud 1200_10
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 43
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3453716672b952c0800000000000000
+      internalID: -4442323335913450433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tira logos canarias + salud 1200_11
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 44
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41b8720f7653b3d00800000000000000
+      internalID: 953414466646018836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tira logos canarias + salud 1200_12
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 43
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd97adb303ba476c0800000000000000
+      internalID: -4146501133250430500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tira logos canarias + salud 1200_13
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 43
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9c79b8b82008f370800000000000000
+      internalID: 8356429283483810974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tira logos canarias + salud 1200_14
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 0
+        width: 62
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a34f13c8cc706b0800000000000000
+      internalID: -5330066731464115670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tira logos canarias + salud 1200_15
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 24
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db65f3fd4762aa090800000000000000
+      internalID: -8022557502803585347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tira logos canarias + salud 1200_16
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 24
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b597eed23bb0780800000000000000
+      internalID: -8715675643989632098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tira logos canarias + salud 1200_17
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 24
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d1986319b375e20800000000000000
+      internalID: 3339203143589764370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tira logos canarias + salud 1200_18
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 24
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b117c65654dbf3e40800000000000000
+      internalID: 5638433364243149083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tira logos canarias + salud 1200_19
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 24
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b0b67272f9b81150800000000000000
+      internalID: 5843624967466823861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tira logos canarias + salud 1200_20
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 24
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5083f30dc76905240800000000000000
+      internalID: 4778484667454011397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tira logos canarias + salud 1200_21
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 24
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8fa43c16500c3ac0800000000000000
+      internalID: -3874221209605066869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tira logos canarias + salud 1200_22
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 0
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 149d4bc0da66143b0800000000000000
+      internalID: -5530025974005704383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tira logos canarias + salud 1200_23
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 23
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 600d88c35285041d0800000000000000
+      internalID: -3368595604320497658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tira logos canarias + salud 1200_24
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 23
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddbd31670d4ee6040800000000000000
+      internalID: 4642899849850903517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tira logos canarias + salud 1200_25
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 22
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b9c82ca16c787e0800000000000000
+      internalID: -1763222910856815831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tira logos canarias + salud 1200_26
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 23
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e17806020b95470800000000000000
+      internalID: 8383925834431798870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tira logos canarias + salud 1200_27
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 22
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e688bdfa91d817140800000000000000
+      internalID: 4715705426297718894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tira logos canarias + salud 1200_28
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 23
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c502683f12fc931d0800000000000000
+      internalID: -3370435101383581604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tira logos canarias + salud 1200_29
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 22
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e91e8d387ddf730800000000000000
+      internalID: 4034617802473184782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tira logos canarias + salud 1200_30
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 22
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53dff9fbd84a32990800000000000000
+      internalID: -7411899633009427147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tira logos canarias + salud 1200_31
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 19
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 646642226c8c3bd60800000000000000
+      internalID: 7904882524267243078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tira logos canarias + salud 1200_32
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 27
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e81eb1dc1b6033b10800000000000000
+      internalID: 1959917623556432270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tira logos canarias + salud 1200_33
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 30
+        width: 32
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c8c17659fb76b00800000000000000
+      internalID: 821836105419361326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tira logos canarias + salud 1200_34
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 28
+        width: 36
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1528e4dd9d353bde0800000000000000
+      internalID: -1318618070703504815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tira logos canarias + salud 1200_35
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 30
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aae90865a7a1bba70800000000000000
+      internalID: 8843691406011702954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tira logos canarias + salud 1200_36
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 28
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c7eb1f6c8d750900800000000000000
+      internalID: 650063763337897924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tira logos canarias + salud 1200_37
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 20
+        width: 75
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7afad33895921dda0800000000000000
+      internalID: -5921906570584805465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tira logos canarias + salud 1200_38
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 14
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef11a3d49cf0433a0800000000000000
+      internalID: -6686702189479849474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tira logos canarias + salud 1200_39
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 15
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4082406760c633d90800000000000000
+      internalID: -7119227810937034748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tira logos canarias + salud 1200_40
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 15
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eccdb52b9fe2114c0800000000000000
+      internalID: -4318618917697495858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tira logos canarias + salud 1200_41
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 15
+        width: 51
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35e80cf73c60153a0800000000000000
+      internalID: -6678549335682019757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tira logos canarias + salud 1200_42
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 15
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1727a0c2b780cd00800000000000000
+      internalID: 990941119827617566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tira logos canarias + salud 1200_43
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 15
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f1d4f4e5bdf04cf0800000000000000
+      internalID: -269937019970072074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tira logos canarias + salud 1200_44
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 5
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f46c13cd739c1230800000000000000
+      internalID: 3610923169597908213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tira logos canarias + salud 1200_45
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 5
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 760156746aaac2710800000000000000
+      internalID: 1669897192986710119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tira logos canarias + salud 1200_46
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 5
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde6d7499d9a69bb0800000000000000
+      internalID: -4929565990146183460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tira logos canarias + salud 1200_47
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 5
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25056359ac8708610800000000000000
+      internalID: 1621428677335470162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tira logos canarias + salud 1200_48
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 5
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61592567b325a7020800000000000000
+      internalID: 2340273371714065686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tira logos canarias + salud 1200_49
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 10
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5623896d4af4f0990800000000000000
+      internalID: -7417622491862388123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tira logos canarias + salud 1200_50
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 5
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e18d4bdea3bcb920800000000000000
+      internalID: 3007476214761619945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tira logos canarias + salud 1200_51
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 5
+        width: 70
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98782495f652e6b70800000000000000
+      internalID: 8894087474272438153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tira logos canarias + salud 1200_52
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 68
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a94014ceaf1439ec0800000000000000
+      internalID: -3561430334358616934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tira logos canarias + salud 1200_53
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 0
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d39958c8042fad950800000000000000
+      internalID: 6474753773347903805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tira logos canarias + salud 1200_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a55d1eff46d8c730800000000000000
+      internalID: 4019698306482263461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tira logos canarias + salud 1200_55
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a763e73463cc7b0800000000000000
+      internalID: -5202723806011557225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tira logos canarias + salud 1200_56
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f3aa5abc61a141a0800000000000000
+      internalID: -6826998071761918984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tira logos canarias + salud 1200_57
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b4c9704fd53cc960800000000000000
+      internalID: 7623527502207108278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tira logos canarias + salud 1200_58
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 0
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b2398349c2a04c60800000000000000
+      internalID: 7800413539910890162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tira logos canarias + salud 1200_59
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ed4ea3a70a525b0800000000000000
+      internalID: -5393728531871768932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tira logos canarias + salud 1200_60
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 1
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 382a3d75fbe6acd30800000000000000
+      internalID: 4452492949700452995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tira logos canarias + salud 1200_61
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 1
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46c2f2f66fdf45270800000000000000
+      internalID: 8238488853236624484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tira logos canarias + salud 1200_62
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de53976b7e2c9f900800000000000000
+      internalID: 718819915996935661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tira logos canarias + salud 1200_63
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 0
+        width: 34
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea7629bac2e6714f0800000000000000
+      internalID: -858096065854675026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tira logos canarias + salud 1200_64
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 0
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1740605dacd587c40800000000000000
+      internalID: 5510257269826520177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tira logos canarias + salud 1200_65
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 0
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6d96b9987f3ab620800000000000000
+      internalID: 2790612706316950895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      tira logos canarias + salud 1200_0: 1050313583749096571
+      tira logos canarias + salud 1200_1: -7130070088157855342
+      tira logos canarias + salud 1200_10: -4442323335913450433
+      tira logos canarias + salud 1200_11: 953414466646018836
+      tira logos canarias + salud 1200_12: -4146501133250430500
+      tira logos canarias + salud 1200_13: 8356429283483810974
+      tira logos canarias + salud 1200_14: -5330066731464115670
+      tira logos canarias + salud 1200_15: -8022557502803585347
+      tira logos canarias + salud 1200_16: -8715675643989632098
+      tira logos canarias + salud 1200_17: 3339203143589764370
+      tira logos canarias + salud 1200_18: 5638433364243149083
+      tira logos canarias + salud 1200_19: 5843624967466823861
+      tira logos canarias + salud 1200_2: -8278396442460193550
+      tira logos canarias + salud 1200_20: 4778484667454011397
+      tira logos canarias + salud 1200_21: -3874221209605066869
+      tira logos canarias + salud 1200_22: -5530025974005704383
+      tira logos canarias + salud 1200_23: -3368595604320497658
+      tira logos canarias + salud 1200_24: 4642899849850903517
+      tira logos canarias + salud 1200_25: -1763222910856815831
+      tira logos canarias + salud 1200_26: 8383925834431798870
+      tira logos canarias + salud 1200_27: 4715705426297718894
+      tira logos canarias + salud 1200_28: -3370435101383581604
+      tira logos canarias + salud 1200_29: 4034617802473184782
+      tira logos canarias + salud 1200_3: -3631823546866943439
+      tira logos canarias + salud 1200_30: -7411899633009427147
+      tira logos canarias + salud 1200_31: 7904882524267243078
+      tira logos canarias + salud 1200_32: 1959917623556432270
+      tira logos canarias + salud 1200_33: 821836105419361326
+      tira logos canarias + salud 1200_34: -1318618070703504815
+      tira logos canarias + salud 1200_35: 8843691406011702954
+      tira logos canarias + salud 1200_36: 650063763337897924
+      tira logos canarias + salud 1200_37: -5921906570584805465
+      tira logos canarias + salud 1200_38: -6686702189479849474
+      tira logos canarias + salud 1200_39: -7119227810937034748
+      tira logos canarias + salud 1200_4: 7899882725783378804
+      tira logos canarias + salud 1200_40: -4318618917697495858
+      tira logos canarias + salud 1200_41: -6678549335682019757
+      tira logos canarias + salud 1200_42: 990941119827617566
+      tira logos canarias + salud 1200_43: -269937019970072074
+      tira logos canarias + salud 1200_44: 3610923169597908213
+      tira logos canarias + salud 1200_45: 1669897192986710119
+      tira logos canarias + salud 1200_46: -4929565990146183460
+      tira logos canarias + salud 1200_47: 1621428677335470162
+      tira logos canarias + salud 1200_48: 2340273371714065686
+      tira logos canarias + salud 1200_49: -7417622491862388123
+      tira logos canarias + salud 1200_5: 1703493791403214702
+      tira logos canarias + salud 1200_50: 3007476214761619945
+      tira logos canarias + salud 1200_51: 8894087474272438153
+      tira logos canarias + salud 1200_52: -3561430334358616934
+      tira logos canarias + salud 1200_53: 6474753773347903805
+      tira logos canarias + salud 1200_54: 4019698306482263461
+      tira logos canarias + salud 1200_55: -5202723806011557225
+      tira logos canarias + salud 1200_56: -6826998071761918984
+      tira logos canarias + salud 1200_57: 7623527502207108278
+      tira logos canarias + salud 1200_58: 7800413539910890162
+      tira logos canarias + salud 1200_59: -5393728531871768932
+      tira logos canarias + salud 1200_6: 8203349728885736496
+      tira logos canarias + salud 1200_60: 4452492949700452995
+      tira logos canarias + salud 1200_61: 8238488853236624484
+      tira logos canarias + salud 1200_62: 718819915996935661
+      tira logos canarias + salud 1200_63: -858096065854675026
+      tira logos canarias + salud 1200_64: 5510257269826520177
+      tira logos canarias + salud 1200_65: 2790612706316950895
+      tira logos canarias + salud 1200_7: 2888071999979515251
+      tira logos canarias + salud 1200_8: -1341999030551579500
+      tira logos canarias + salud 1200_9: 2225933338968148003
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

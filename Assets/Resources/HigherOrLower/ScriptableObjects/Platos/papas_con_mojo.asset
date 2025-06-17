@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a86e33b637f27a744853c1785b6c2bb4, type: 3}
+  m_Name: papas_con_mojo
+  m_EditorClassIdentifier: 
+  nombre: Papas con mojo
+  origen: Canarias
+  caloriasPorRacion: 220
+  descripcion: Papas cocidas con salsa mojo, picante o dulce.
+  beneficio: Ricas en carbohidratos y sabor.
+  imagen: {fileID: 5736821963868164748, guid: 7a40fb91d29576a42b9300f24b884554, type: 3}

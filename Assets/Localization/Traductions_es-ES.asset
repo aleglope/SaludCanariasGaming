@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Traductions_es-ES
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es-ES
+  m_SharedData: {fileID: 11400000, guid: 1f2fe25fb79413d4c820959e7a3fa818, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 163863527424
+    m_Localized: jugar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 204627968000
+    m_Localized: opciones
+    m_Metadata:
+      m_Items: []
+  - m_Id: 207412985856
+    m_Localized: salir
+    m_Metadata:
+      m_Items: []
+  - m_Id: 423197343744
+    m_Localized: menu principal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 211351437312
+    m_Localized: "f\xE1cil"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 213809299456
+    m_Localized: medio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 328712257536
+    m_Localized: "dif\xEDcil"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 529430675456
+    m_Localized: "m\xFAsica"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 551375273984
+    m_Localized: dificultad
+    m_Metadata:
+      m_Items: []
+  - m_Id: 588276760576
+    m_Localized: idioma
+    m_Metadata:
+      m_Items: []
+  - m_Id: 722229042544640
+    m_Localized: "Ingl\xE9s"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 722263196762112
+    m_Localized: "Espa\xF1ol"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

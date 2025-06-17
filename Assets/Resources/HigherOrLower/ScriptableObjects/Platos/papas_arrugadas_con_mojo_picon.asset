@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a86e33b637f27a744853c1785b6c2bb4, type: 3}
+  m_Name: papas_arrugadas_con_mojo_picon
+  m_EditorClassIdentifier: 
+  nombre: "Papas arrugadas con mojo pic\xF3n"
+  origen: Canarias
+  caloriasPorRacion: 180
+  descripcion: "Papas cocidas con mucha sal y acompa\xF1adas con mojo pic\xF3n."
+  beneficio: Ricas en potasio y antioxidantes.
+  imagen: {fileID: 7104921358079903915, guid: a13e7545bc87f154a8d010f0feafd3b3, type: 3}
