@@ -212,7 +212,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      quesillo_canario_0: -4996909017925244256
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

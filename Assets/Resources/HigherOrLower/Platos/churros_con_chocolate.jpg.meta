@@ -212,7 +212,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      churros_con_chocolate_0: 1010355216366567316
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

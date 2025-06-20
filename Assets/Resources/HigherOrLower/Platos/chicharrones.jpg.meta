@@ -212,7 +212,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      chicharrones_0: 1299941721622675998
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

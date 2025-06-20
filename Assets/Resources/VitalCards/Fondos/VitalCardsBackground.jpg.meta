@@ -212,7 +212,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      VitalCardsBackground_0: 4209199156216969952
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

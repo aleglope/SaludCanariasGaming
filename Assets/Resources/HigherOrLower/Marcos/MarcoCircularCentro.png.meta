@@ -212,7 +212,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      MarcoCircularCentro_0: 4495598521806503146
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

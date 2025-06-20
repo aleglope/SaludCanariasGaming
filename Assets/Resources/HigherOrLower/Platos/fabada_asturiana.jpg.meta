@@ -212,7 +212,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      fabada_asturiana_0: -8018565168788437984
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -212,7 +212,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      carne_fiesta_0: 1303465990481737469
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

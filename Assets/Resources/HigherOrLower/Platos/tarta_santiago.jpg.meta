@@ -212,7 +212,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      tarta_santiago_0: 3190910909208699554
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

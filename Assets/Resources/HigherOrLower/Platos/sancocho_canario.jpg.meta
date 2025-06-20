@@ -212,7 +212,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sancocho_canario_0: -4745563842863300179
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

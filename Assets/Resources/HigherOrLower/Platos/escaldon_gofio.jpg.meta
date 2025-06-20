@@ -212,7 +212,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      escaldon_gofio_0: -8438726612661742705
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

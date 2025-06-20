@@ -212,7 +212,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      VitalCardsMarcoAncho_0: -5220827503129187476
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

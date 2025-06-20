@@ -212,7 +212,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BigChefMarcoAncho_0: -9204925045220755547
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

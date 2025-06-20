@@ -212,7 +212,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      potaje_de_berros_0: 4322236359916370142
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

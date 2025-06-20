@@ -212,7 +212,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      frangollo_0: 1729996514957823625
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -212,7 +212,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      bienmesabe_0: -5422620240106541694
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
