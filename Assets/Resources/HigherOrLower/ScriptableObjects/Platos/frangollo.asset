@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a86e33b637f27a744853c1785b6c2bb4, type: 3}
+  m_Name: frangollo
+  m_EditorClassIdentifier: 
+  nombre: Frangollo
+  origen: Canarias
+  caloriasPorRacion: 300
+  descripcion: "Postre de gofio, leche y az\xFAcar."
+  beneficio: "Alto en fibra y energ\xEDa."
+  imagen: {fileID: 1729996514957823625, guid: 5b7611aaccb50d642b3583e8b9c15df7, type: 3}

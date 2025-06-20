@@ -1,0 +1,187 @@
+[
+    {
+      "nombre": "Papas arrugadas con mojo picón",
+      "origen": "Canarias",
+      "caloriasPorRacion": 180,
+      "descripcion": "Papas cocidas con mucha sal y acompañadas con mojo picón.",
+      "beneficio": "Ricas en potasio y antioxidantes.",
+      "imagen": "papas_arrugadas"
+    },
+    {
+      "nombre": "Escaldón de gofio",
+      "origen": "Canarias",
+      "caloriasPorRacion": 250,
+      "descripcion": "Gofio mezclado con caldo de carne o pescado, típico canario.",
+      "beneficio": "Fuente de fibra y minerales esenciales.",
+      "imagen": "escaldon_gofio"
+    },
+    {
+      "nombre": "Ropa vieja canaria",
+      "origen": "Canarias",
+      "caloriasPorRacion": 340,
+      "descripcion": "Plato de garbanzos, carne deshilachada y verduras.",
+      "beneficio": "Aporte equilibrado de proteína y carbohidratos.",
+      "imagen": "ropa_vieja"
+    },
+    {
+      "nombre": "Potaje de berros",
+      "origen": "Canarias",
+      "caloriasPorRacion": 190,
+      "descripcion": "Guiso con berros, papas, calabaza y legumbres.",
+      "beneficio": "Rico en hierro vegetal y vitaminas.",
+      "imagen": "potaje_berros"
+    },
+    {
+      "nombre": "Sancocho canario",
+      "origen": "Canarias",
+      "caloriasPorRacion": 400,
+      "descripcion": "Pescado salado acompañado de papas y mojo.",
+      "beneficio": "Alto en omega-3 y proteínas.",
+      "imagen": "sancocho_canario"
+    },
+    {
+      "nombre": "Gofio escaldado",
+      "origen": "Canarias",
+      "caloriasPorRacion": 220,
+      "descripcion": "Gofio mezclado con caldo caliente, típico de las islas.",
+      "beneficio": "Alto en fibra y energía.",
+      "imagen": "gofio_escaldado"
+    },
+    {
+      "nombre": "Chicharrones",
+      "origen": "Canarias",
+      "caloriasPorRacion": 350,
+      "descripcion": "Trozos de cerdo fritos, crujientes y sabrosos.",
+      "beneficio": "Alto en proteínas y grasas saludables.",
+      "imagen": "chicharrones"
+    },
+    {
+      "nombre": "Puchero canario",
+      "origen": "Canarias",
+      "caloriasPorRacion": 500,
+      "descripcion": "Guiso de carne, verduras y legumbres.",
+      "beneficio": "Plato completo y nutritivo.",
+      "imagen": "puchero_canario"
+    },
+    {
+      "nombre": "Carne fiesta",
+      "origen": "Canarias",
+      "caloriasPorRacion": 400,
+      "descripcion": "Carne de cerdo adobada y frita, típica de las fiestas.",
+      "beneficio": "Alto en proteínas y sabor.",
+      "imagen": "carne_fiesta"
+    },
+    {
+      "nombre": "Papas con mojo",
+      "origen": "Canarias",
+      "caloriasPorRacion": 220,
+      "descripcion": "Papas cocidas con salsa mojo, picante o dulce.",
+      "beneficio": "Ricas en carbohidratos y sabor.",
+      "imagen": "papas_mojo"
+    },
+    {
+      "nombre": "Tarta de queso canaria",
+      "origen": "Canarias",
+      "caloriasPorRacion": 350,
+      "descripcion": "Postre de queso fresco, azúcar y huevo.",
+      "beneficio": "Delicioso y rico en calcio.",
+      "imagen": "tarta_queso_canaria"
+    },
+    {
+      "nombre": "Frangollo",
+      "origen": "Canarias",
+      "caloriasPorRacion": 300,
+      "descripcion": "Postre de gofio, leche y azúcar.",
+      "beneficio": "Alto en fibra y energía.",
+      "imagen": "frangollo"
+    },
+    {
+      "nombre": "Bienmesabe",
+      "origen": "Canarias",
+      "caloriasPorRacion": 400,
+      "descripcion": "Postre de almendra, miel y huevo.",
+      "beneficio": "Rico en antioxidantes y energía.",
+      "imagen": "bienmesabe"
+    },
+    {
+      "nombre": "Conejo en salmorejo",
+      "origen": "Canarias",
+      "caloriasPorRacion": 320,
+      "descripcion": "Carne de conejo marinada en salmorejo y luego guisada.",
+      "beneficio": "Proteína magra con sabor intenso.",
+      "imagen": "conejo_salmorejo"
+    },
+    {
+      "nombre": "Tortilla de patatas",
+      "origen": "España",
+      "caloriasPorRacion": 200,
+      "descripcion": "Tortilla de huevo y patata, clásica de toda España.",
+      "beneficio": "Fuente energética con proteínas y grasas saludables.",
+      "imagen": "tortilla_patatas"
+    },
+    {
+      "nombre": "Paella valenciana",
+      "origen": "España",
+      "caloriasPorRacion": 450,
+      "descripcion": "Arroz cocinado con pollo, conejo y verduras.",
+      "beneficio": "Aporta carbohidratos complejos y proteínas.",
+      "imagen": "paella_valenciana"
+    },
+    {
+      "nombre": "Gazpacho andaluz",
+      "origen": "España",
+      "caloriasPorRacion": 100,
+      "descripcion": "Sopa fría de tomate, pepino, pimiento y aceite de oliva.",
+      "beneficio": "Refrescante y cargado de antioxidantes.",
+      "imagen": "gazpacho_andaluz"
+    },
+    {
+      "nombre": "Fabada asturiana",
+      "origen": "España",
+      "caloriasPorRacion": 600,
+      "descripcion": "Plato contundente de fabes, chorizo y morcilla.",
+      "beneficio": "Alto en proteínas y hierro.",
+      "imagen": "fabada_asturiana"
+    },
+    {
+      "nombre": "Pulpo a la gallega",
+      "origen": "España",
+      "caloriasPorRacion": 280,
+      "descripcion": "Pulpo cocido con pimentón, sal gruesa y aceite de oliva.",
+      "beneficio": "Rico en proteínas y bajo en grasa.",
+      "imagen": "pulpo_gallega"
+    },
+    {
+      "nombre": "Cocido madrileño",
+      "origen": "España",
+      "caloriasPorRacion": 500,
+      "descripcion": "Guiso de carne, garbanzos y verduras.",
+      "beneficio": "Plato completo y nutritivo.",
+      "imagen": "cocido_madrileno"
+    },
+    {
+      "nombre": "Pisto manchego",
+      "origen": "España",
+      "caloriasPorRacion": 250,
+      "descripcion": "Guiso de verduras con huevo frito.",
+      "beneficio": "Rico en fibra y vitaminas.",
+      "imagen": "pisto_manchego"
+    },
+    {
+      "nombre": "Tarta de Santiago",
+      "origen": "España",
+      "caloriasPorRacion": 350,
+      "descripcion": "Postre de almendra, azúcar y huevo, típico de Galicia.",
+      "beneficio": "Alto en energía y sabor.",
+      "imagen": "tarta_santiago"
+    },
+    {
+      "nombre": "Churros con chocolate",
+      "origen": "España",
+      "caloriasPorRacion": 400,
+      "descripcion": "Masa frita acompañada de chocolate caliente.",
+      "beneficio": "Delicioso y energético.",
+      "imagen": "churros_chocolate"
+    }   
+  ]
+  

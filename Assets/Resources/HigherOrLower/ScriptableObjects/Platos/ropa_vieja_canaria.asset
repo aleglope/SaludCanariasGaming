@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a86e33b637f27a744853c1785b6c2bb4, type: 3}
+  m_Name: ropa_vieja_canaria
+  m_EditorClassIdentifier: 
+  nombre: Ropa vieja canaria
+  origen: Canarias
+  caloriasPorRacion: 340
+  descripcion: Plato de garbanzos, carne deshilachada y verduras.
+  beneficio: "Aporte equilibrado de prote\xEDna y carbohidratos."
+  imagen: {fileID: -2975857480440230579, guid: f35632b6f7c888c42be440744e571172, type: 3}

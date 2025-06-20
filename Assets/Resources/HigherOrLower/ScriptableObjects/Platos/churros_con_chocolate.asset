@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a86e33b637f27a744853c1785b6c2bb4, type: 3}
+  m_Name: churros_con_chocolate
+  m_EditorClassIdentifier: 
+  nombre: Churros con chocolate
+  origen: "Espa\xF1a"
+  caloriasPorRacion: 400
+  descripcion: "Masa frita acompa\xF1ada de chocolate caliente."
+  beneficio: "Delicioso y energ\xE9tico."
+  imagen: {fileID: 1010355216366567316, guid: 155f6114854d56b4c8ff0ecf35b68d5c, type: 3}

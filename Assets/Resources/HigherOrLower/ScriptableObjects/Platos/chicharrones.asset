@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a86e33b637f27a744853c1785b6c2bb4, type: 3}
+  m_Name: chicharrones
+  m_EditorClassIdentifier: 
+  nombre: Chicharrones
+  origen: Canarias
+  caloriasPorRacion: 350
+  descripcion: Trozos de cerdo fritos, crujientes y sabrosos.
+  beneficio: "Alto en prote\xEDnas y grasas saludables."
+  imagen: {fileID: 1299941721622675998, guid: 1ba3dcb1bfc383d4a96fa8e6e053c7ba, type: 3}

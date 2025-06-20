@@ -7,6 +7,10 @@
 [Ll]ogs/
 MemoryCaptures/
 
+# Configuración personal
+UserSettings/
+
+
 # Uncomment this line if you wish to ignore the asset store tools plugin
 # [Aa]ssets/AssetStoreTools*
 

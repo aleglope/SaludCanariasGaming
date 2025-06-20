@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a86e33b637f27a744853c1785b6c2bb4, type: 3}
+  m_Name: escaldon_de_gofio
+  m_EditorClassIdentifier: 
+  nombre: "Escald\xF3n de gofio"
+  origen: Canarias
+  caloriasPorRacion: 250
+  descripcion: "Gofio mezclado con caldo de carne o pescado, t\xEDpico canario."
+  beneficio: Fuente de fibra y minerales esenciales.
+  imagen: {fileID: -8438726612661742705, guid: 4e0e92dbb9d59fe4d9bb5a2b4fb01295, type: 3}

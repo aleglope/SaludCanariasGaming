@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a86e33b637f27a744853c1785b6c2bb4, type: 3}
+  m_Name: conejo_en_salmorejo
+  m_EditorClassIdentifier: 
+  nombre: Conejo en salmorejo
+  origen: Canarias
+  caloriasPorRacion: 320
+  descripcion: Carne de conejo marinada en salmorejo y luego guisada.
+  beneficio: "Prote\xEDna magra con sabor intenso."
+  imagen: {fileID: -341622818826977978, guid: d35ce1b73c639df41bb70de795930b61, type: 3}
