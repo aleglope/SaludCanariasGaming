@@ -212,7 +212,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      MarcoRelleno_0: -8885788359119807951
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

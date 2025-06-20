@@ -212,7 +212,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      pisto-manchego_0: 1756645923692329931
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -212,7 +212,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      papas_con_mojo_0: 5736821963868164748
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

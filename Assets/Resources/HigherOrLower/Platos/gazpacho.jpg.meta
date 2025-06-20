@@ -212,7 +212,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      gazpacho_0: -1371473568394211295
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

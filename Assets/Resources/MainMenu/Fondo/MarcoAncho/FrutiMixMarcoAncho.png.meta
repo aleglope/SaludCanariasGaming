@@ -212,7 +212,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      FrutiMixMarcoAncho_0: 529206128051397784
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

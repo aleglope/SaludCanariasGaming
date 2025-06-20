@@ -212,7 +212,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      SaltoNutritivoMarcoAncho_0: 5900921043701862949
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -212,7 +212,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      tortilla_patatas_0: -8486372938875577474
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

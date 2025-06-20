@@ -212,7 +212,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      paella_valenciana_0: -5144113427255348917
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

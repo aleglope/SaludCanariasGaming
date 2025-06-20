@@ -212,7 +212,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      cocido_madrileno_0: 4608644676277594506
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

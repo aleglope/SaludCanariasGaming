@@ -212,7 +212,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      gofio_escaldado_0: -5860627956896958384
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

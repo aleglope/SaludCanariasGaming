@@ -6,21 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/MainMenu.unity
-    guid: ba86ac08c8aaad747801b63938392590
-  - enabled: 1
-    path: Assets/Scenes/Saludle.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
-  - enabled: 1
-    path: Assets/Scenes/HigherOrLower.unity
-    guid: 191db304cc85e8540bdffb8f8e1da20f
-  - enabled: 1
-    path: Assets/Scenes/FrutiMix.unity
-    guid: 0fefdb64cf299d445b941fe85ae7dac5
-  - enabled: 1
-    path: Assets/Scenes/VitalCards.unity
-    guid: 4d274bed9d07d3d4d89b63f84615fa56
+    path: Assets/Scenes/VirusInvaders.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
   m_configObjects:
-    com.unity.addressableassets: {fileID: 11400000, guid: 4ffeaff0bed166a42823cf8a88b577bb, type: 2}
-    com.unity.localization.settings: {fileID: 11400000, guid: c36e6989a1a9fda4ba997b151dd94710, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0

@@ -212,7 +212,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      puchero_canario_0: -8702702989363026558
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
